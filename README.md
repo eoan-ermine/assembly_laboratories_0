@@ -5,6 +5,8 @@
 ## Инструкция по сборке и запуску
 
 ```
-make build
-./build/main
+mkdir build && cd build
+cmake ..
+make
+./assembly_laboratories_0
 ```
